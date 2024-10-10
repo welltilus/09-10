@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+body{
+    font-family: Arial, Helvetica, sans-serif;
+background-image: url("a-line-illustration-of-a-gym-with-various-fitness--ps7hd2krSgS-mVOigMAY_w-CB8SUM3ORPeZ_eLOeowwQg.jpeg");
+}
+div{
+background-color: rgba(0, 0, 0, 0.8);
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+padding: 80px;
+border-radius: 15px;
+color: rgb(0, 211, 123)
+
+}
+nav{
+    background-color: #4aa96569;;
+    height: 80px;
+}
+
+*{
+    margin: 0%;
+padding: 0%;}
+input{
+
+    padding: 15px;
+    
+    border: none;
+    
+    outline: none;
+    
+    font-size: 15px;
+    
+    }
+    
+   
+    button
+    {
+    background-color: rgb(0, 211, 123);
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+#informações{
+    display: grid;
+}

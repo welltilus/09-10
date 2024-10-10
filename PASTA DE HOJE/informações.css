@@ -1,0 +1,32 @@
+#informações{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+}
+body{
+    background-color: #32746d;
+}
+
+#treinoss{
+    border-right: 10px solid  #f2fff3c2
+}
+img.icones{
+    
+    height: 40px;
+}
+img.icones2{
+    
+    height: 40px;
+}
+img.icones3{
+    
+    height: 40px;
+}
+img.icones4{
+    
+    height: 40px;
+}
+img.icones5{
+
+    height: 40px;
+}
